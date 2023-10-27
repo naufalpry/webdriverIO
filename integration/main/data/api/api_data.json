@@ -1,0 +1,44 @@
+{
+    "singleUsers":
+    {
+        "data": {
+            "id": 2,
+            "email": "janet.weaver@reqres.in",
+            "first_name": "Janet",
+            "last_name": "Weaver",
+            "avatar": "https://reqres.in/img/faces/2-image.jpg"
+        },
+        "support": {
+            "url": "https://reqres.in/#support-heading",
+            "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+        }
+    },
+    
+    "notFound":
+    {},
+    
+    "successCreateUsers":
+    {
+        "name": "naufal",
+        "job": "leader",
+        "id": "573",
+        "createdAt": "2023-10-27T17:30:38.165Z"
+    },
+    
+    "successUpdateUsers":
+    {
+        "name": "naufal",
+        "job": "leader",
+        "updatedAt": "2023-10-27T17:30:38.165Z"
+    },
+    
+    "unsuccessLogin":
+    {
+        "error": "Missing password"
+    },
+    
+    "unsuccessRegister":
+    {
+        "error": "Missing password"
+    }
+    }
